@@ -1,18 +1,18 @@
 # stat605final
 UWM stat605 final group project.
 
-# group members:
+# Group Members:
 
-jingshan huang
+Jingshan Huang
 
-xiangyu wang
+Xiangyu Wang
 
-zijin wang
+Zijin Wang
 
-yican liu
+Yicen Liu
 
-yuan cao
+Yuan Cao
 
-# prime goal
+# Prime Goal
 
-analyse YELP dataset
+Analyse YELP dataset.
